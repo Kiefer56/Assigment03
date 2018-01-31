@@ -8,9 +8,7 @@
  * 
  */
 package willispd_Assignment03;
-
 import java.math.BigInteger;
-
 public class Primeness {
 /**
  * 
@@ -33,6 +31,6 @@ public class Primeness {
 
 		return true;//else is true
 		
-	}}
-
+		}
+	}
 }
